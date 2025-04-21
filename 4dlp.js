@@ -15,7 +15,7 @@ if (watermarkPath?.["water-mark-switch"] === "1") {
 }
 
 if (watermarkPath?.["water-mark-switch-text"] === "1") {
-    watermarkPath["water-mark-switch-text"] = "2";
+    watermarkPath["water-mark-switch-text"] = "0";
 }
 
 if (filetranslimit?.["file-transfer-pc-size-limit"] === "2048") {
